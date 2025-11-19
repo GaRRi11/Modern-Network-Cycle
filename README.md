@@ -106,7 +106,7 @@ Laptop learned from RA:
 
 ✔ SLAAC method
 
-## PHASE 5 — IPv6 GUA Creation + DAD
+## IPv6 GUA Creation + DAD
 
 6. Laptop creates GUA IPv6
 
